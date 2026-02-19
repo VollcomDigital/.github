@@ -173,7 +173,7 @@ or an automation layer that just works — we'd love to hear from you.
 
 <br/>
 
-[![Get in Touch](https://img.shields.io/badge/Get_in_Touch-Vollcom--Digital.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vollcom-digital.com)
+[![Get in Touch](https://img.shields.io/badge/Get_in_Touch-Vollcom--Digital.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vollcom-digital.com#contact)
 
 <br/>
 
