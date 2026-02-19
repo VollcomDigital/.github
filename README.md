@@ -107,7 +107,7 @@ We are opinionated about our tools — and transparent about why we choose them.
 These aren't platitudes — they're the guardrails we enforce in every pull request.
 
 ```
- 1. CORRECTNESS OVER CLEVERNESS     Code that is easy to reason about beats code that is hard to break.
+ 1. CORRECTNESS OVER CLEVERNESS     Code that is easy to reason about beats clever code that is hard to maintain.
  2. REPRODUCIBILITY IS NON-NEGOTIABLE    Every pipeline, model, and result must be reproducible from source.
  3. TYPES ARE DOCUMENTATION          Strict typing in Python (3.12+), SQL schemas, and API contracts.
  4. PERFORMANCE BY DEFAULT           Vectorised operations, lazy evaluation, and GPU acceleration — not loops.
