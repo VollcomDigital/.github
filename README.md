@@ -5,7 +5,7 @@
 ### Engineering Intelligence — Data · Analytics · Quant · Automation
 
 [![Website](https://img.shields.io/badge/Vollcom--Digital.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vollcom-digital.com)
-[![Location](https://img.shields.io/badge/Munich,_Germany-0A0A0A?style=for-the-badge&logo=google-maps&logoColor=white)](https://vollcom-digital.com)
+[![Location](https://img.shields.io/badge/Munich,_Germany-0A0A0A?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/search/Vollcom+Digital+Munich)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/vollcom-digital)
 
 ---
