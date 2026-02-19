@@ -17,25 +17,25 @@ Website: **[Vollcom-Digital.com](https://vollcom-digital.com)**
 
 ## What we do
 
-### 1) Data Engineering
+### Data Engineering
 - Modern data platform architecture
 - Batch and real-time pipelines
 - Data quality, governance, and observability
 - Scalable cloud and hybrid data infrastructure
 
-### 2) Analytics Engineering
+### Analytics Engineering
 - Reliable semantic layers and KPI frameworks
 - BI architecture and decision-ready dashboards
 - Self-service analytics enablement
 - Analytics operating model and process design
 
-### 3) Quant Engineering
+### Quant Engineering
 - Quantitative model design and implementation
 - Time-series and forecasting workflows
 - Risk and performance analytics
 - Reproducible research and model lifecycle workflows
 
-### 4) Automation Engineering
+### Automation Engineering
 - Workflow automation and orchestration
 - API-first integrations across business systems
 - Data-to-action automation for operations and finance
